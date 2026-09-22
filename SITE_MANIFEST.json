@@ -1,0 +1,207 @@
+{
+  "domain": "drawstringlux",
+  "niche": "Haute Leathercraft & Luxury Drawstring Bags",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "drawstring_lux_01_1935-45_Prada_handbag_tooled_and.jpg",
+      "size_kb": 80.63,
+      "md5": "f77de34b78c8de48d2f1a77c199de822",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: 1935 45 Prada handbag tooled and",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "drawstring_lux_02_Brown_Alligator_Leather_Handbag_.jpg",
+      "size_kb": 293.71,
+      "md5": "aadec80ce0e72a3e859081e0bf540bf5",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Brown Alligator Leather Handbag",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "drawstring_lux_03_Dark_Grey_Leather_Handbag_-_DPLA.jpg",
+      "size_kb": 115.57,
+      "md5": "686616ab038af2c5d316d49faca6363c",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Dark Grey Leather Handbag DPLA",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "drawstring_lux_04_Florence_Leather_Market.jpg",
+      "size_kb": 249.31,
+      "md5": "3b109a55a860b8eb3a5aae5ce238eddb",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Florence Leather Market",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "drawstring_lux_05_Handtooled_leather_handbag_Celti.jpg",
+      "size_kb": 165.92,
+      "md5": "ca1049830c2d995fa520daae404b0da2",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Handtooled leather handbag Celti",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "drawstring_lux_06_Kelly_Bag.jpg",
+      "size_kb": 205.44,
+      "md5": "ea57146a24264d7b89d441b2dac75a34",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Kelly Bag",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "drawstring_lux_07_Leather_handbag_by_Les_cuirs_d_A.jpg",
+      "size_kb": 194.18,
+      "md5": "f8645b5a681e1c3ebd88074bc802d278",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Leather handbag by Les cuirs d A",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "drawstring_lux_08_Red_Crocodile_Kelly_Bag.jpg",
+      "size_kb": 326.79,
+      "md5": "61842e2057c812a77da7612dad4909d3",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Red Crocodile Kelly Bag",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "drawstring_lux_09_Shenkar_Archive_-_Bag_Collection.jpg",
+      "size_kb": 192.03,
+      "md5": "fee591b390ff77399b944c99e00ebe2a",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Shenkar Archive Bag Collection",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "drawstring_lux_10_Tooled_leather_handbag_by_N._Rad.jpg",
+      "size_kb": 72.81,
+      "md5": "2bd866f7797672eed9a3722a9cbab581",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Tooled leather handbag by N. Rad",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "drawstring_lux_11_Adele_Dejak_Tote_Bag_h014.jpg",
+      "size_kb": 243.51,
+      "md5": "50f6ff82cb3a3fd3749a2396b750106c",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Adele Dejak Tote Bag h014",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "drawstring_lux_12_Last_Drip_Designs_Tote_Bag.jpg",
+      "size_kb": 66.46,
+      "md5": "73c6ab4331589ef728219429728e298b",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Last Drip Designs Tote Bag",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "drawstring_lux_13_Sarah-jessica-parker-boyy-bag.jpg",
+      "size_kb": 119.7,
+      "md5": "676b50bafc0ec965ef470a66222228d3",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Sarah jessica parker boyy bag",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "drawstring_lux_14__Crowned_Jewels_2019_Blue_Onyx_R.jpg",
+      "size_kb": 148.44,
+      "md5": "40b8f93c9f15da7c75a90e707b0e7552",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Crowned Jewels 2019 Blue Onyx R",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "drawstring_lux_15__Thou_Shalt_Not_Covet_2019_Yello.jpg",
+      "size_kb": 109.62,
+      "md5": "c4f3ceb25b7d4bc2ad18ba049de93ab6",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Thou Shalt Not Covet 2019 Yello",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "drawstring_lux_16_Pink_Birkin_bag.jpg",
+      "size_kb": 97.1,
+      "md5": "3dc528f8e878f8ea039ada763bb52851",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: Pink Birkin bag",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "drawstring_lux_17_leather_bag_1.jpg",
+      "size_kb": 175.96,
+      "md5": "a4d03607fc6ec6587a9bd4e2837e38de",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: leather bag 1",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "drawstring_lux_18_leather_bag_2.jpg",
+      "size_kb": 284.91,
+      "md5": "9252312ab1fe8a97d7294051769ad372",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: leather bag 2",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "drawstring_lux_19_leather_bag_3.jpg",
+      "size_kb": 170.31,
+      "md5": "b81a8c1801fb6d6f7015533f4f5a170e",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: leather bag 3",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "drawstring_lux_20_leather_bag_4.jpg",
+      "size_kb": 180.18,
+      "md5": "118ccfcf92377f49a8464fb789ae50f8",
+      "description": "Artisanal Haute Leathercraft & Luxury Drawstring Bags: leather bag 4",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://drawstringlux.com/sitemap.xml",
+    "robots": "https://drawstringlux.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
